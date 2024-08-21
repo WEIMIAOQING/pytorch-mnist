@@ -13,3 +13,4 @@ ResNet18是基于残差块连接的卷积神经网络，该网络结构的代码
 <h2>vision transformer模型进行mnist数据集分类</h2>
 vision transformer是基于 Transformer 架构，将图像分割成多个 patch 并将其视为序列处理。该网络结构代码在在该文件夹中的net.py文件中。模型的训练和测试文件见该文件夹中的train.py文件。<br>
 该模型在mnist上也达到了98%左右的精度。
+<h2>运行结果</h2>
